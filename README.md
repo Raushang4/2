@@ -1,6 +1,6 @@
-[![Watch tutorial here](https://img.youtube.com/vi/sUKptmUVIBM/0.jpg)](https://youtu.be/sUKptmUVIBM)
+[![Watch tutorial here](image url)](video link)
 
-# [Watch video here](https://youtu.be/sUKptmUVIBM)
+# [Watch video here](video link)
 
 ## What you will learn
 
@@ -20,9 +20,9 @@
 
 ## Important
 
-If you want to be a professional developer, you have to know the fundamentals like JavaScript and CSS really well. I highly recommend you go through my [Professional JavaScript](https://bytegrad.com/courses/professional-javascript) and [Professional CSS](https://bytegrad.com/courses/professional-css) courses.
+If you want to be a professional developer, you have to know the fundamentals like JavaScript and CSS really well. I highly recommend you go through my [Professional JavaScript](URL link) and [Professional CSS](URL link) courses.
 
-I'm close to releasing a complete React & Next.js course. Get on the email list to receive early-bird pricing: [link](https://email.bytegrad.com/).
+I'm close to releasing a complete React & Next.js course. Get on the email list to receive early-bird pricing: [link](URL LINK).
 
 ## Setup
 
